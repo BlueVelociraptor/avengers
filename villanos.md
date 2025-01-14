@@ -4,3 +4,4 @@
 * Interrogación
 * Mr. Zombie
 * Jack Calavera
+* John Doe
